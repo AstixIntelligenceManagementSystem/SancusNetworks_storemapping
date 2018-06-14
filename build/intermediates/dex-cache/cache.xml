@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\libs\bugsense-1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="495021ce133ff403d469bc73b897d54c5bd36dc8">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\build\intermediates\pre-dexed\debug\bugsense-1.9_67c3172a179a227e3142cc54dda2a8cb8d547713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\libs\httpclient-4.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="781b68c2fd5335de914166241b8d4bfe8c2f91b7">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\build\intermediates\pre-dexed\debug\httpclient-4.0.2_05abca5ebcccd7167b2c6383d5ffb0311504b144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\libs\http-core-4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1bf8391d59bf37ddf2aa51aa90467afd0388bc2c">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\build\intermediates\pre-dexed\debug\http-core-4.1_897115d796889658ad999f38370d5fb2db9797c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUNIL\.android\build-cache\5f0b99954785a74e72f4439180478d961138b04a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\build\intermediates\pre-dexed\debug\classes_139f10f44e3ebea336609bc8c78d98b4dc47c538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUNIL\.android\build-cache\ca57382b797602414b5a723797bc60dc62077f09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\build\intermediates\pre-dexed\debug\classes_37b64f55a9b143ddd340a586b5cc05b3cb057f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\libs\android-async-http-1.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.3_255ef3a78fdfb74aa0e5eb7487e3182162beb3a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\libs\ksoap2-android-assembly-2.6.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="400a2afc7073b2e68c3841db8b9b71d4182f242d">
+        <dex dex="E:\AndroidStudio\androidstudioworkspace\SancusNetworks_storemapping\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.6.0-jar-with-dependencies_3549f00b430e61bcb34c03aa6d3ccfe3ce6f9b02.jar" />
+    </item>
+
+</items>

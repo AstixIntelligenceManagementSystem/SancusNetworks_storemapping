@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--
+    <color name="my_color">#fff</color>
+    <color name="primaryColorDark">#25c</color>
+     <color name="primaryDarkColor">#123b00</color>
+    <color name="storelisttopcolor">#77400d</color>
+    <color name="radiocolor">#a75912</color>
+    <color name="black">#000</color>
+    <color name="blue">#0000ff</color>
+-->
+    <color name="bg_button_login">#1D394C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bg_gradient_start">#3990CA</color>
+    <color name="bg_gradient_end">#15547E</color>
+
+    <color name="my_color">#fff</color>
+    <color name="primaryColorDark">#1B5E20</color>
+    <color name="primaryDarkColor">#1B5E20</color>
+    <color name="storelisttopcolor">#1B5E20</color>
+    <color name="radiocolor">#1e45d2</color>
+    <color name="black">#000</color>
+    <color name="blue">#0000ff</color>
+
+    <!--  <color name="primaryColor">#2196F3</color>
+    <color name="primaryDarkColor">#1976D2</color>
+    <color name="accentColor">#F44336</color>
+    <color name="textColor">#FFFFFF</color> -->
+    
+</resources>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "110668776000",
+    "firebase_url": "https://sancusnetworksstoremapping.firebaseio.com",
+    "project_id": "sancusnetworksstoremapping",
+    "storage_bucket": "sancusnetworksstoremapping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110668776000:android:9c6f4bc6730d9768",
+        "android_client_info": {
+          "package_name": "com.example.android.sancusNetworks_storemapping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110668776000-ltpp74isb0lghvaak1uqu7ds8hnn86t7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "110668776000-ltpp74isb0lghvaak1uqu7ds8hnn86t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS_RXb_VzZhl6Bf5Gk0uIPworArQgFGE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
