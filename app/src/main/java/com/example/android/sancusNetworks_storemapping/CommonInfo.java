@@ -11,6 +11,7 @@ public class CommonInfo
 
 
 
+/*
 
 	public static File imageF_savedInstance=null;
 	public static String imageName_savedInstance=null;
@@ -48,6 +49,7 @@ public class CommonInfo
 	public static String FinalLatLngJsonFile="SancusNetworksSMFinalLatLngJson";
 	public static String AppLatLngJsonFile="SancusNetworksSMLatLngJson";
 
+*/
 
 // Its for Test  Path on 194 server for SFA
 
@@ -100,9 +102,7 @@ public class CommonInfo
 
 
 
-
-
-  /*  public static File imageF_savedInstance=null;
+    public static File imageF_savedInstance=null;
     public static String imageName_savedInstance=null;
     public static String clickedTagPhoto_savedInstance=null;
     public static Uri uriSavedImage_savedInstance=null;
@@ -138,7 +138,7 @@ public class CommonInfo
 	public static String RSPLImagesnFolder="SancusNetworksSMImages";
 	public static String FinalLatLngJsonFile="SancusNetworksSMFinalLatLngJson";
     public static String AppLatLngJsonFile="SancusNetworksSMLatLngJson";
-*/
+
 
 
 
